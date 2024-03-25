@@ -1,0 +1,5 @@
+os
+pyshorteners
+colorama
+requests
+validators
